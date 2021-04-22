@@ -1,8 +1,9 @@
 {
   "ShoppingCart": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "requisitioner": "Sebastian",
+    "item": "123",
+    "description": "SC item 1",
+    "price": "20.00",
+    "status": " "
   }
 }
